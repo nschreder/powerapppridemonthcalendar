@@ -118,4 +118,4 @@ If you want to customize the Pride Month calendar and import your content, you c
 **Information:** Excel is formatting links differently as PowerApps is processing it. To ensure a working solution, make sure that you only include text values instead of links.
 
 # Pin the Pride Month Calendar app in Teams for all users
-How to [pin the Pride Month Calendar app in Teams for all users](/Readme/Installation/pintoteams.md).
+How to [pin the Pride Month Calendar app in Teams for all users](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Installation/pintoteams.md).
