@@ -1,5 +1,5 @@
 # Pride Month Calendar PowerApp
-Welcome to the Pride Month Calendar PowerApp. This PowerApp template provides an adjustable advent calendar for your company or team. It can be easily imported into your (default) environment and shared within the organization with no additional connector needed.
+Welcome to the Pride Month Calendar PowerApp. This PowerApp template provides an adjustable Pride Month calendar for your company or team. It can be easily imported into your (default) environment and shared within the organization with no additional connector needed.
 
 **Content**
 1. [Technical Requirements](#Technical-Requirements)
@@ -13,7 +13,7 @@ Welcome to the Pride Month Calendar PowerApp. This PowerApp template provides an
     5. [Republishing](#Republishing-the-app) 
 5. [Content packs](#Content-packs)
 6. [Customize the content](#Customize-the-content)
-7. [Pin the Pride Month Calendar app in Teams for all users](/Readme/Installation/pintoteams.md)
+7. [Pin the Pride Month Calendar app in Teams for all users](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Installation/pintoteams.md)
 
 ## Technical Requirements
 * Power Platform license (dedicated license e.g., "Power Apps per User" or included with your Microsoft 365 license)
