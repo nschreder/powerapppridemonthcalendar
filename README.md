@@ -67,7 +67,7 @@ To change the background image, you must click on "CalendarScreen" in the tree v
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Background%20Step%201.png)
 
-### I want to change the content of the advent calendar
+### I want to change the content of the Pride Month calendar
 1. Open the data section on the left side and remove the existing "Content" data source by clicking on "..." and then "Remove":
 
 ![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%201.png)
