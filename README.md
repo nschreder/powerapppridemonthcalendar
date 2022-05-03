@@ -6,7 +6,6 @@ Welcome to the Pride Month Calendar PowerApp. This PowerApp template provides an
 2. [Download](#Download)
 3. [Installation](#Installation)
 4. [Customization](#Customization)
-    1. [Introduction text](#I-want-to-change-the-introduction-text-on-the-left-side)
     2. [Logo or background image](#I-want-to-change-the-logo-or-background-image)
     3. [Change content of the pride month calendar](#I-want-to-change-the-content-of-the-pride-month-calendar)
     4. [Change name, description, icon, or background color](#i-want-to-change-the-powerapp-icon-name-description-or-background-color-during-startup)
@@ -49,14 +48,9 @@ There are multiple versions of the advent calendar app with content packs pre-in
 ## Customization
 You have several options available to customize the Pride Month calendar PowerApp. To start with the customization process, you must open the app in edit mode using [PowerApps Studio](https://make.powerapps.com):
 
-![PowerApps Studio](/Readme/Customization/Customization%20Step%201.png)
+![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Customization/Customization%20Step%201.png)
 
 **Information**: After customizing the PowerApp, you must [republish](#Republishing-the-app) your app again.
-
-### I want to change the introduction text on the left side
-To change the introduction text, you must click on "CalendarIntroLabel" (child of "CalendarIntroContainer") in the tree view on the left side of the PowerApps Studio. In the properties editor, you can change the text in the "Text" field.
-
-![PowerApps Studio](/Readme/Customization/Customization%20Text%20Step%201.png)
 
 ### I want to change the logo or background image
 To change the logo, you must click on "CompanyLogo" in the tree view on the left side of the PowerApps Studio. In the properties editor, you can change the image in the "Image" field by uploading a new image and selecting it.
@@ -90,11 +84,11 @@ You can change the icon in the app described [here](https://docs.microsoft.com/e
 ### Republishing the app
 1. Open the file menu by clicking on "File" in the menu:
 
-![PowerApps Studio](/Readme/Customization/Customization%20Step%202.png)
+![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Customization/Customization%20Step%202.png)
 
 2. In the save menu click on "Save" and then "Publish":
 
-![PowerApps Studio](/Readme/Customization/Customization%20Step%203.png)
+![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Customization/Customization%20Step%203.png)
 
 ## Content packs
 | Name | Description | Link |
@@ -104,7 +98,7 @@ You can change the icon in the app described [here](https://docs.microsoft.com/e
 ## Customize the content
 If you want to customize the Pride Month calendar and import your content, you can start with downloading and editing the [template](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Template/Template.xlsx) in Microsoft Excel. After adjusting it you can [change the content of the Pride Month calendar](#I-want-to-change-the-content-of-the-pride-month-calendar).
 
-![Excel](/Readme/Customization/Customization%20Content%20Step%205.png)
+![Excel](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Customization/Customization%20Content%20Step%205.png)
 
 | Field | Description |
 |---|---|
@@ -113,7 +107,7 @@ If you want to customize the Pride Month calendar and import your content, you c
 | Type | The Pride Month calendar can show different types of content. The types "Image", "Video", and "PDF" will open the content in the specific player/reader, and "URL" will redirect the user directly to the source by opening a new browser tab. |
 | Content | The content shown after opening the entry (URL). |
 | Link (optional) | This optional attribute shows a link below the content, and the user can get additional information (URL). |
-| Index | The index of the entry. E.g., the first entry is "1", the 2nd entry in the 3rd line is "14". |
+| Thumbnail (optional) | The thumbnail of the entry. It is shown when the entry is available. |
 
 **Information:** Excel is formatting links differently as PowerApps is processing it. To ensure a working solution, make sure that you only include text values instead of links.
 
