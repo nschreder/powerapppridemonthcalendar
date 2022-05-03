@@ -32,19 +32,19 @@ There are multiple versions of the advent calendar app with content packs pre-in
 ## Installation
 1. Open the [PowerApps Studio](https://make.powerapps.com) and select your default/desired environment:
 
-![PowerApps Studio](/Readme/Installation/Installation%20Step%201.png)
+![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Installation/Installation%20Step%201.png)
 
 2. In the left navigation bar, click on "Apps" and then "Import canvas app":
 
-![PowerApps Studio](/Readme/Installation/Installation%20Step%202.png)
+![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Installation/Installation%20Step%202.png)
 
 3. Use the file picker, and choose the recently downloaded Power App zip file. Specify the "Import Setup" field (new if you install it the first time, upgrade if you already have a previous version installed) and click on "Import":
 
-![PowerApps Studio](/Readme/Installation/Installation%20Step%203.png)
+![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Installation/Installation%20Step%203.png)
 
 4. After the import, you can customize the Pride Month calendar Power App using the "Open app" link or app explorer in the left navigation panel. Otherwise, you can share it immediately within your company and your colleagues:
 
-![PowerApps Studio](/Readme/Installation/Installation%20Step%204.png)
+![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Installation/Installation%20Step%204.png)
 
 ## Customization
 You have several options available to customize the Pride Month calendar PowerApp. To start with the customization process, you must open the app in edit mode using [PowerApps Studio](https://make.powerapps.com):
