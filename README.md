@@ -27,7 +27,7 @@ There are multiple versions of the advent calendar app with content packs pre-in
 - [Advent Calendar Teams Edition (English)](/App/AdventCalendarTeamsEN.zip).
 - [Advent Calendar Power Platform Edition](/App/AdventCalendarPowerPlatform.zip).
 
-![GitHub](/Readme/Installation/Installation%20Download.png)
+![GitHub](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Installation/Installation%20Download.png)
 
 ## Installation
 1. Open the [PowerApps Studio](https://make.powerapps.com) and select your default/desired environment:
