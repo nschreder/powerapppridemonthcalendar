@@ -55,28 +55,28 @@ You have several options available to customize the Pride Month calendar PowerAp
 ### I want to change the logo or background image
 To change the logo, you must click on "CompanyLogo" in the tree view on the left side of the PowerApps Studio. In the properties editor, you can change the image in the "Image" field by uploading a new image and selecting it.
 
-![PowerApps Studio](/Readme/Customization/Customization%20Logo%20Step%201.png)
+![PowerApps Studio](/Readme/Customization/Customization%201.png)
 
 To change the background image, you must click on "CalendarScreen" in the tree view on the left side of the PowerApps Studio. In the properties editor, you can change the background image in the "Background image" field by uploading a new image and selecting it.
 
-![PowerApps Studio](/Readme/Customization/Customization%20Background%20Step%201.png)
+![PowerApps Studio](/Readme/Customization/Customization%202.png)
 
 ### I want to change the content of the Pride Month calendar
 1. Open the data section on the left side and remove the existing "Content" data source by clicking on "..." and then "Remove":
 
-![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%201.png)
+![PowerApps Studio](/Readme/Customization/Customization%203.png)
 
 2. Add your [customized](#Customize-the-content) or the [pre-defined](#Content-packs) content by clicking on "Add data" and searching for/selecting the "Import from Excel" data source:
 
-![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%202.png)
+![PowerApps Studio](/Readme/Customization/Customization%204.png)
 
 3. Select your customized Excel spreadsheet and click on "Content" in the "Choose a table" panel. Click on "Connect" to import the Excel file:
 
-![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%203.png)
+![PowerApps Studio](/Readme/Customization/Customization%205png)
 
 4. To refresh your data in the PowerApp, click on "Tree View", select "App" by clicking on "..." next to it, and "Run OnStart":
 
-![PowerApps Studio](/Readme/Customization/Customization%20Content%20Step%204.png)
+![PowerApps Studio](/Readme/Customization/Customization%206.png)
 
 ### I want to change the PowerApp icon, name, description, or background color (during startup)
 You can change the icon in the app described [here](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/set-name-tile).
@@ -84,11 +84,11 @@ You can change the icon in the app described [here](https://docs.microsoft.com/e
 ### Republishing the app
 1. Open the file menu by clicking on "File" in the menu:
 
-![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Customization/Customization%20Step%202.png)
+![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Customization/Customization%207.png)
 
 2. In the save menu click on "Save" and then "Publish":
 
-![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Customization/Customization%20Step%203.png)
+![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Customization/Customization%208.png)
 
 ## Content packs
 | Name | Description | Link |
