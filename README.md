@@ -84,11 +84,11 @@ You can change the icon in the app described [here](https://docs.microsoft.com/e
 ### Republishing the app
 1. Open the file menu by clicking on "File" in the menu:
 
-![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Customization/Customization%207.png)
+![PowerApps Studio](/Readme/Customization/Customization%207.png)
 
 2. In the save menu click on "Save" and then "Publish":
 
-![PowerApps Studio](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Customization/Customization%208.png)
+![PowerApps Studio](/Readme/Customization/Customization%208.png)
 
 ## Content packs
 | Name | Description | Link |
