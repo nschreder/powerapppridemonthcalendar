@@ -23,7 +23,7 @@ Welcome to the Pride Month Calendar PowerApp. This PowerApp template provides an
 ## Download
 There are multiple versions of the advent calendar app with content packs pre-installed:
 - [Pride Month App](/PrideMonthCalendar.zip).
-- [Pride Month Calendar Template](/Pride Month Calendar.xlsx).
+- [Pride Month Calendar Template](/Pride%20Month%20Calendar.xlsx).
 
 ![GitHub](https://github.com/nschreder/powerappadventcalendar/blob/main/Readme/Installation/Installation%20Download.png)
 
