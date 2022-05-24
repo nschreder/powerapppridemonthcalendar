@@ -92,7 +92,7 @@ You can change the icon in the app described [here](https://docs.microsoft.com/e
 ## Content packs
 | Name | Description | Link |
 |---|---|---|
-| Pride | A content pack specific for the Pride Month. | TBA |
+| Pride | A content pack specific for the Pride Month. | [Content Pack](/Pride%20Month%20Calendar.xlsx) |
 
 ## Customize the content
 If you want to customize the Pride Month calendar and import your content, you can start with downloading and editing the [template](https://github.com/nschreder/powerappadventcalendar/raw/main/Content/Template/Template.xlsx) in Microsoft Excel. After adjusting it you can [change the content of the Pride Month calendar](#I-want-to-change-the-content-of-the-pride-month-calendar).
